@@ -5,6 +5,7 @@ import Home from './components/home/Home';
 
 import NavBar from './components/nav_bar_component/NavBar';
 import Services from './components/services/Services';
+import Portfolio from './components/portfolio/Portfolio'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Home></Home>
       <AboutMe></AboutMe>
       <Services></Services>
+      <Portfolio></Portfolio>
     </div>
   );
 }
