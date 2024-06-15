@@ -22,8 +22,8 @@ export default function NavBar() {
   
   return (
     <div>
-       <header class="header">
-          <a href="#" class="logo">Portfolio</a>
+       <header className="header">
+          <a href="#" className="logo">Portfolio</a>
 
           <div onClick={handleMenu}>
             {!isMenuClicked?
@@ -32,8 +32,8 @@ export default function NavBar() {
             }
           </div>
 
-          <nav class="navbar">
-            <a href="#home" class="active">Home</a>
+          <nav className="navbar">
+            <a href="#home" className="active">Home</a>
             <a href="#about">About</a>
             <a href="#services">Services</a>
             <a href="#portfolio">Portfolio</a>
