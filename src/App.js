@@ -6,6 +6,7 @@ import Home from './components/home/Home';
 import NavBar from './components/nav_bar_component/NavBar';
 import Services from './components/services/Services';
 import Portfolio from './components/portfolio/Portfolio'
+import ContactMe from './components/contact_me/ContactMe';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <AboutMe></AboutMe>
       <Services></Services>
       <Portfolio></Portfolio>
+      <ContactMe></ContactMe>
     </div>
   );
 }
