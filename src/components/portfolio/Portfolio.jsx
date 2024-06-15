@@ -11,63 +11,63 @@ import { FaUpRightFromSquare } from 'react-icons/fa6'
 export default function Portfolio() {
     return (
         <div>
-            <section class="portfolio" id="portfolio">
+            <section className="portfolio" id="portfolio">
 
-                <h2 class="heading">Latest <span>Projects</span></h2>
+                <h2 className="heading">Latest <span>Projects</span></h2>
 
-                <div class="portfolio-container">
+                <div className="portfolio-container">
 
-                    <div class="portfolio-box">
+                    <div className="portfolio-box">
                         <img src={p1} />
-                        <div class="portfolio-layer">
+                        <div className="portfolio-layer">
                             <h4>Web Design</h4>
                             <p>Akkdfkdf, dfdkfkdfkallk, ddfldlfs ddf lsfd dfaldf ajfldfjdflldfjdlf dfdlfldlf dfdfjld.</p>
-                            <a href=""><FaUpRightFromSquare className='portfolio-icon'></FaUpRightFromSquare></a>
+                            <a href=""><FaUpRightFromSquare classNameName='portfolio-icon'></FaUpRightFromSquare></a>
                         </div>
                     </div>
 
-                    <div class="portfolio-box">
+                    <div className="portfolio-box">
                         <img src={p2} />
-                        <div class="portfolio-layer">
+                        <div className="portfolio-layer">
                             <h4>Web Design</h4>
                             <p>Akkdfkdf, dfdkfkdfkallk, ddfldlfs ddf lsfd dfaldf ajfldfjdflldfjdlf dfdlfldlf dfdfjld.</p>
-                            <a href=""><FaUpRightFromSquare className='portfolio-icon'></FaUpRightFromSquare></a>
+                            <a href=""><FaUpRightFromSquare classNameName='portfolio-icon'></FaUpRightFromSquare></a>
                         </div>
                     </div>
 
-                    <div class="portfolio-box">
+                    <div className="portfolio-box">
                         <img src={p3} />
-                        <div class="portfolio-layer">
+                        <div className="portfolio-layer">
                             <h4>Web Design</h4>
                             <p>Akkdfkdf, dfdkfkdfkallk, ddfldlfs ddf lsfd dfaldf ajfldfjdflldfjdlf dfdlfldlf dfdfjld.</p>
-                            <a href=""><FaUpRightFromSquare className='portfolio-icon'></FaUpRightFromSquare></a>
+                            <a href=""><FaUpRightFromSquare classNameName='portfolio-icon'></FaUpRightFromSquare></a>
                         </div>
                     </div>
 
-                    <div class="portfolio-box">
+                    <div className="portfolio-box">
                         <img src={p4} />
-                        <div class="portfolio-layer">
+                        <div className="portfolio-layer">
                             <h4>Web Design</h4>
                             <p>Akkdfkdf, dfdkfkdfkallk, ddfldlfs ddf lsfd dfaldf ajfldfjdflldfjdlf dfdlfldlf dfdfjld.</p>
-                            <a href=""><FaUpRightFromSquare className='portfolio-icon'></FaUpRightFromSquare></a>
+                            <a href=""><FaUpRightFromSquare classNameName='portfolio-icon'></FaUpRightFromSquare></a>
                         </div>
                     </div>
 
-                    <div class="portfolio-box">
+                    <div className="portfolio-box">
                         <img src={p5} />
-                        <div class="portfolio-layer">
+                        <div className="portfolio-layer">
                             <h4>Web Design</h4>
                             <p>Akkdfkdf, dfdkfkdfkallk, ddfldlfs ddf lsfd dfaldf ajfldfjdflldfjdlf dfdlfldlf dfdfjld.</p>
-                            <a href=""><FaUpRightFromSquare className='portfolio-icon'></FaUpRightFromSquare></a>
+                            <a href=""><FaUpRightFromSquare classNameName='portfolio-icon'></FaUpRightFromSquare></a>
                         </div>
                     </div>
 
-                    <div class="portfolio-box">
+                    <div className="portfolio-box">
                         <img src={p6} />
-                        <div class="portfolio-layer">
+                        <div className="portfolio-layer">
                             <h4>Web Design</h4>
                             <p>Akkdfkdf, dfdkfkdfkallk, ddfldlfs ddf lsfd dfaldf ajfldfjdflldfjdlf dfdlfldlf dfdfjld.</p>
-                            <a href=""><FaUpRightFromSquare className='portfolio-icon'></FaUpRightFromSquare></a>
+                            <a href=""><FaUpRightFromSquare classNameName='portfolio-icon'></FaUpRightFromSquare></a>
                         </div>
                     </div>
 
