@@ -25,23 +25,23 @@ export default function Home() {
 
     return (
         <div>
-            <section class="home" id="home">
+            <section className="home" id="home">
 
-                <div class="home-content">
+                <div className="home-content">
                     <h3>Hi, myself</h3>
                     <h1>Shashindu Chamika</h1>
-                    <h3>And I'm a <span class="multiple-text" ref={typedElement}></span></h3>
+                    <h3>And I'm a <span className="multiple-text" ref={typedElement}></span></h3>
                     <p>I am an enthusiastic undergraduate with a strong foundation of web and mobile application development techniques. My passion for the IT industry drives me to continuously learn and adapt to new technologies and methods </p>
-                    <div class="social-media">
+                    <div className="social-media">
                         <a href="#"><FaWhatsapp></FaWhatsapp></a>
                         <a href="#"><FaLinkedin></FaLinkedin></a>
                         <a href="#"><FaGithub></FaGithub></a>
                         <a href="#"><FaFacebook></FaFacebook></a>
                     </div>
-                    <a href="#" class="btn">Download CV</a>
+                    <a href="#" className="btn">Download CV</a>
                 </div>
 
-                <div class="home-img">
+                <div className="home-img">
                     <img src={profilePic} alt='profile-pic' />
                 </div>
             </section>
