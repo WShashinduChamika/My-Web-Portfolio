@@ -12,7 +12,7 @@ export default function Home() {
 
     useEffect(() => {
         const options = {
-            strings: ['Full Stack Mobile Developer', 'Project Manager', 'Full Stack Web Developer'],
+            strings: ['Full Stack Developer', 'Mobile Developer', 'Web Developer'],
             typeSpeed: 70,
             backSpeed: 70,
             loop: true,
